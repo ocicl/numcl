@@ -1,0 +1,10 @@
+* numcl
+
+Numpy clone in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/numcl/numcl.git   |
+| commit  | 6d550f7  |
+| systems | numcl |
+|---------+-------------------------------------------|
+
